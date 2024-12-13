@@ -11,8 +11,6 @@ so that I can identify my best-performing locations and areas for improvement.
 
 ## Dataset
 
-The data was generated from ChatGPT
-
 Locations (String): Names of the restaurant locations.
 Monthly Sales (double): Total monthly sales for each location in dollars.
 Customer Ratings (double): Average customer satisfaction ratings on a scale of 1 to 5.
